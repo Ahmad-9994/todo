@@ -11,6 +11,7 @@ const BookDetail = ({ list }) => {
 
   return (
     <div className="book-detail">
+    <h1>hellllllllllllllllllllllllllllo</h1>
       <h1>{book.title}</h1>
       <p>{book.description}</p>
     </div>
